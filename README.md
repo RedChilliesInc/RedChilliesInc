@@ -1,11 +1,3 @@
-- 👋 Hi, We are excited in Welcoming you to @RedChilliesInc Journey
-- An Unlimited University incorporated to help you learn, leap and lead..,
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi Everyone, We are excited in Welcoming you to @RedChilliesInc Journey
+An Unlimited University incorporated to help you learn, leap and lead ..,
 
-<!---
-RedChilliesInc/RedChilliesInc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
